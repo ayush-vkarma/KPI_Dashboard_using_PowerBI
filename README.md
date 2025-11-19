@@ -92,15 +92,16 @@ The solution enables:
 
 ---
 ## 📁 Repository Contents
-📦 PowerBI_KPI_Dashboard
-┣ 📂 Dashboard_Screenshots
-┃ ┣ OVERVIEW.png
-┃ ┣ TOP_RESTAURANTS.png
-┃ ┣ DRILLDOWN.png
-┃ ┗ (more screenshots if available)
-┣ PL_300_COURSE_END_PROJECT_AYUSH_VISHWAKARMA.pbix
-┣ Data Manipulation and Reporting with Power BI.pdf
-┗ README.md
+
+📦 PowerBI_KPI_Dashboard  
+├── 📂 Dashboard_Screenshots  
+│   ├── Rating_Specific_Drill.png  
+│   ├── Restaurant_Analysis.png  
+│   ├── Restaurant_Selection_Analysis.png  
+│   └── World_Wide_Analysis.png  
+├── 🧾 PL_300_COURSE_END_PROJECT_AYUSH_VISHWAKARMA.pbix  
+├── 📄 Data Manipulation and Reporting with Power BI.pdf  
+└── 📄 README.md
 ---
 
 ## 👨‍💻 Author
