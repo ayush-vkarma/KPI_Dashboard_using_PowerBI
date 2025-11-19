@@ -1,6 +1,6 @@
 # 📌 Global Restaurant Analytics – Power BI Dashboard
 
-![Dashboard Preview](Dashboard_Screenshots/OVERVIEW.png)
+![Dashboard Preview](Dashboard_Screenshots/World_Wide_Analysis.png)
 
 ## 🔍 Objective
 Develop an interactive Power BI report to analyze global restaurant performance across continents, countries, and cities. The dashboard enables stakeholders to identify top restaurants by ratings and cost, understand cuisine trends, and drill down into restaurant-level details for strategic decision-making.
