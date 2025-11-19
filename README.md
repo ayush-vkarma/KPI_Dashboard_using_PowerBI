@@ -100,7 +100,6 @@ The solution enables:
 │   ├── Restaurant_Selection_Analysis.png  
 │   └── World_Wide_Analysis.png  
 ├── 🧾 PL_300_COURSE_END_PROJECT_AYUSH_VISHWAKARMA.pbix  
-├── 📄 Data Manipulation and Reporting with Power BI.pdf  
 └── 📄 README.md
 ---
 
