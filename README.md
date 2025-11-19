@@ -93,14 +93,25 @@ The solution enables:
 ---
 ## 📁 Repository Contents
 
-📦 PowerBI_KPI_Dashboard  
-├── 📂 Dashboard_Screenshots  
-│   ├── Rating_Specific_Drill.png  
-│   ├── Restaurant_Analysis.png  
-│   ├── Restaurant_Selection_Analysis.png  
-│   └── World_Wide_Analysis.png  
-├── 🧾 PL_300_COURSE_END_PROJECT_AYUSH_VISHWAKARMA.pbix  
+```text
+📦 KPI_Dashboard_using_PowerBI
+├── 📂 Dashboard_Screenshots
+│   ├── Rating_Specific_Drill.png
+│   ├── Restaurant_Analysis.png
+│   ├── Restaurant_Selection_Analysis.png
+│   └── World_Wide_Analysis.png
+├── 📂 Datasets
+│   ├── Africa.xlsx
+│   ├── Asia.xlsx
+│   ├── Country-Code.xlsx
+│   ├── Europe.xlsx
+│   ├── NAM.xlsx
+│   ├── SAM.xlsx
+│   ├── Oceania.xlsx
+│   └── Fact Table.xlsx
+├── 🧾 PL_300_COURSE_END_PROJECT_AYUSH_VISHWAKARMA.pbix
 └── 📄 README.md
+
 ---
 
 ## 👨‍💻 Author
